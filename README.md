@@ -1,2 +1,2 @@
 # hello-world
-this is a hello world projectiong
+this is a hello world projection.
